@@ -99,3 +99,5 @@ flowchart TD
 
 
 For more details visit [here](https://medium.com/google-cloud/kubernetes-how-traffic-flows-from-internet-to-container-via-istio-9b2958961086)
+
+#### [Istio vs Ingress](https://dev.to/vivekanandrapaka/istio-ingress-gateway-vs-istio-gateway-vs-kubernetes-ingress-5hgg#:~:text=Istio%20Ingress%20Gateway%20is%20one,to%20plain%20Nginx%20Ingress%20Controller.)
