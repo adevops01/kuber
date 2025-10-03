@@ -39,3 +39,14 @@ With Istio 1.5, these components were consolidated into a single binary called i
   1. Configures Envoy proxies to collect telemetry data (metrics, logs, traces) that can be integrated with tools like Prometheus, Grafana, and Jaeger.
 
 In essence, istiod is the central configuration and management daemon that makes the entire Istio mesh function by providing the brains for all the Envoy proxies in the data plane. It typically runs in the istio-system namespace.
+
+
+
+#### The Core Istio API Resources: The custom Kubernetes resources (Custom Resource Definitions or CRDs) that you use to configure the mesh, such as:
+1. Gateway
+1. VirtualService
+1. DestinationRule
+1. ServiceEntry
+1. AuthorizationPolicy
+1. PeerAuthentication
+1. RequestAuthentication
