@@ -95,3 +95,7 @@ flowchart TD
 
 
 ```
+
+
+
+For more details visit [here](https://medium.com/google-cloud/kubernetes-how-traffic-flows-from-internet-to-container-via-istio-9b2958961086)
